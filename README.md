@@ -1,7 +1,7 @@
+[![MasterHead](https://tse1.mm.bing.net/th?id=OIP.sVEcs0ruEZwiDKCVFQwWZAHaEP&pid=Api&P=0&h=180)
 <h1 align="center">Hi 👋, I'm Anas Ansari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anasansari0079&label=Profile%20views&color=0e75b6&style=flat" alt="anasansari0079" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anasansari0079" alt="anasansari0079" /></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2020b1531074&label=Profile%20views&color=0e75b6&style=flat" alt="2020b1531074" /> </p>
